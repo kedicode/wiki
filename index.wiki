@@ -1,0 +1,10 @@
+=Welcome=
+Welcome to my online wiki. Please browse at your convenience.
+
+==About Me==
+Hi I am Keenan. I like to be called kedicode. I am a full stack dotnetcore developer working in the greater detroit area.
+I enjoy programming and hanging with my awesome girlfriend. We have three pups {Dank, Dabby and Keifer}
+I work at [[https://www.jato.com|Jato]] you can find out more about them from Google. 
+
+==Links==
+[[JATO]] work related stuff

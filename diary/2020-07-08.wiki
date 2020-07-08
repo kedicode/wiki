@@ -1,0 +1,3 @@
+This is my first diary entry for the vimwiki diary feature. I wonder how well I will use this and what stuff I will put in there
+I feel that math was particulary hard today. I had some problems with the point slope form of y-b = m(x-a). It wasn't that I was
+not understanding the problem but I seems to be missing small steps in the calculation. I will slow down and see if that helps. 

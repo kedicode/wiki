@@ -1,0 +1,28 @@
+==July 8==
+
+Wed Jul  8 08:13:32 EDT 2020
+* Start work on the investigation of migrating v2 to v3. NOS-586
+
+
+Wed Jul  8 09:27:50 EDT 2020
+* Initial change of the project files to target netcoreapp3.1 creates 173 errors.
+	- Error Breakdown by project
+		* DAL: 1
+		* Functions: 6
+		* ItegrationTests: 38
+		* Tests: 159
+
+Wed Jul  8 10:00:15 EDT 2020
+* After removing System.Configuration from solution the errors resolved.
+	- starting to test solution for runtime errors now
+
+Wed Jul  8 11:40:19 EDT 2020
+* Testing seems to be working from the endpoint. I don't anticipate much issue with pulling this into PI 13
+
+
+Wed Jul  8 12:07:54 EDT 2020
+* Working on NOS-546
+ - 10 Tests need to be refactored
+
+Wed Jul  8 14:30:24 EDT 2020
+* Working on getting the integration and unit test to pass when not able to use httpconfiguration
