@@ -1,4 +1,6 @@
 =TODO=
 * [ ] Dabby Skin
-* [ ] Math
+* [o] Math
+ - [X] Finish Unit Forms of linear equations
+ - [ ] Start Unit Systems of equations
 * [ ] Python

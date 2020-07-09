@@ -1,0 +1,47 @@
+
+=July 9th=
+
+Thu Jul  9 08:04:35 EDT 2020
+ * Check and respond to emails
+ * Work on the unit testing of Functions
+ 
+ 
+Thu Jul  9 09:19:38 EDT 2020
+* During standup I asked for some pair/mob programming to help with the unit test for NOS-546
+* Hardik mentioned that NOS-585 is priority for this morning and after that work on NOS-546
+
+
+Thu Jul  9 09:49:06 EDT 2020
+* Starting working with Mason on extracting log information from the FCA calls
+	* Currently blocked by VS studio being a dumbass 
+	* We don't need to give them the request
+	* Mason and Hardik conintued on this task
+
+
+Thu Jul  9 10:58:44 EDT 2020
+* Working with Hazel on testing for NOS-546
+* The string for SecurityServiceTests needs to be sync'd with the redis cache. 
+  * look at why it doesn't match when running the code
+	  * These tests seems very fragile.
+	  * Using the specific arg.Any or string to work with Nsubstitute.
+
+
+Thu Jul  9 12:09:28 EDT 2020
+* Lunch and learn on the IOC container
+
+
+Thu Jul  9 13:01:59 EDT 2020
+* Lunch
+
+
+Thu Jul  9 13:55:46 EDT 2020
+* Continue work on the unit test for NOS-546
+*
+
+Thu Jul  9 14:51:42 EDT 2020
+* Starting to Mob with Hardik
+* Got a few test to work
+
+
+Thu Jul  9 16:26:34 EDT 2020
+*Logging off for the day. 
