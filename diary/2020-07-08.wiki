@@ -1,3 +1,10 @@
 This is my first diary entry for the vimwiki diary feature. I wonder how well I will use this and what stuff I will put in there
 I feel that math was particulary hard today. I had some problems with the point slope form of y-b = m(x-a). It wasn't that I was
 not understanding the problem but I seems to be missing small steps in the calculation. I will slow down and see if that helps. 
+
+
+Wed 08 Jul 2020 10:23:21 PM EDT
+This evening I noticed that I had a bit of difficulty with getting into the groove with some of my python problems. 
+I think I need to slow down and start writing stuff out my hand or maybe using some pseudocode code in the future to help with this.
+It wasn't that the material was hard by any means just I was initially using a wrong problem solving method and wasted time on a wrong
+algorithm. At least I can improve right. 
