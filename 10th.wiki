@@ -1,0 +1,11 @@
+=July 10th=
+
+
+Fri Jul 10 08:20:57 EDT 2020
+* Log in for the day and check emails 
+* Work on NOS-546 tests
+
+
+Fri Jul 10 16:17:22 EDT 2020
+* Got the tests all working now and pushed into source
+* Will start working on the build pipeline on monday

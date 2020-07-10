@@ -1,1 +1,14 @@
 Maybe I will start to put my todos for the next day in the next days diary. That sounds like a good idea.
+Lindsay asked me today if I was upset. I am not upset I love that girl more that anything and I really want to 
+make her happy.
+I am considering changing to EMACS but I am not really sure yet. 
+
+=TODO=
+* [ ] Learn Tmux
+ * [ ] This means also learning some terminal configs
+* [ ] Python
+* [ ] Spend time with Lindsay
+* [ ] Math
+ * [ ] Work on Systems of Equations
+* [ ] work on my Vim knowledge
+	* [ ] what the Primeagen series
