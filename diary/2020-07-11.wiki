@@ -1,0 +1,12 @@
+Had a really good talk with Lindsay today about how I was feeling. Felt like we were able to make some headway and understand each other better. I shared with here some of my diary entries. 
+
+Dabby had a situation where she ran after a golfcart today. The man kept driving and I was running after him saying "stop so I can get my dog lol" He did not stop for quite some time. 
+
+TODO
+* [ ] Install Shower Shelf
+	* [ ] Need to ask Lindsay again where the mount point is
+* [ ] Python
+	* [ ] Setup pymode better
+	* [ ] Work on Week 5 stuff
+* [ ] Math
+
