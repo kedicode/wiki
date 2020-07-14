@@ -1,0 +1,14 @@
+=July 14th=
+
+TODO
+* [ ] Math
+	* [ ] Solutions to systems of Equations
+	* [ ] Take a mastery challenge
+* [ ] Python
+	* [ ] Work on OOO exercises
+	* [ ] Look at Project Euler again.
+* [ ] Design Patterns
+	* [ ] Review Strategy Pattern
+	* [ ] Learn Repository Pattern
+* [ ] 10 Min WalkThru
+* [ ] Trash
