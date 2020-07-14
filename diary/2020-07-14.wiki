@@ -1,8 +1,13 @@
 =July 14th=
 
+So Lindsay did not come home last night she. I hope she had a good time with the boys and I am glad she decided to not drive home high and drunk. I did want to beat up that pussy though so maybe later tonight when she gets off of work that can happen.
+
+On Another note I actually think I slept decently last night so that is a nice thing.
+
 TODO
 * [ ] Math
 	* [ ] Solutions to systems of Equations
+		* [ ] Have one more challenge to complete
 	* [ ] Take a mastery challenge
 * [ ] Python
 	* [ ] Work on OOO exercises
@@ -11,4 +16,5 @@ TODO
 	* [ ] Review Strategy Pattern
 	* [ ] Learn Repository Pattern
 * [ ] 10 Min WalkThru
-* [ ] Trash
+* [X] Trash
+* [ ] Consider taking the hacker rank for Ford again?
