@@ -4,17 +4,16 @@ So Lindsay did not come home last night she. I hope she had a good time with the
 
 On Another note I actually think I slept decently last night so that is a nice thing.
 
+Round 2 tonight for a try at that awesome pussy. I really need to make an effort to beat it up more if you ask me. I am sure she would agree.
+
 TODO
-* [ ] Math
-	* [ ] Solutions to systems of Equations
-		* [ ] Have one more challenge to complete
-	* [ ] Take a mastery challenge
-* [ ] Python
-	* [ ] Work on OOO exercises
-	* [ ] Look at Project Euler again.
-* [ ] Design Patterns
-	* [ ] Review Strategy Pattern
-	* [ ] Learn Repository Pattern
-* [ ] 10 Min WalkThru
+* [X] Math
+	* [X] Solutions to systems of Equations
+		* [X] Have one more challenge to complete
+	* [X] Take a mastery challenge
+* [o] Python
+	* [X] Work on OOO exercises
+* [o] Design Patterns
+	* [X] Review Strategy Pattern
+* [X] 10 Min WalkThru
 * [X] Trash
-* [ ] Consider taking the hacker rank for Ford again?

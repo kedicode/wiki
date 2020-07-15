@@ -1,0 +1,7 @@
+TODO
+
+* [ ] Look at Project Euler again.
+
+	* [ ] Learn Repository Pattern
+	* [ ] 
+* [ ] Consider taking the hacker rank for Ford again?
