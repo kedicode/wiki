@@ -7,6 +7,7 @@ Lindsay liked that I was doing the todo list again and recommended that I post i
 
 TODO
 * [ ] Math
+	* [ ] Systems of Equations word problems
 * [ ] Python
 	* [ ] Section 2 of OOP
 	* [ ] Look at Project Euler again.
