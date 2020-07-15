@@ -1,7 +1,17 @@
+=July 15th=
+
+Actually slept well and got to spend some quality time with Lindsay last night. Yeah you know what that means. I got that pussy and it was amazing. I think I will have some more tonight. Also I am going to beat it doggie style a little bit. 
+
+Lindsay liked that I was doing the todo list again and recommended that I post it on the board. I told her that I was doing it in the vimwiki as diary entries so that I could keep track of it effectively. 
+
+
 TODO
-
-* [ ] Look at Project Euler again.
-
+* [ ] Math
+* [ ] Python
+	* [ ] Section 2 of OOP
+	* [ ] Look at Project Euler again.
+* [ ] Design Patterns
 	* [ ] Learn Repository Pattern
-	* [ ] 
+	* [ ] Review Strategy Pattern
+* [ ] Look into how to paint the door
 * [ ] Consider taking the hacker rank for Ford again?
