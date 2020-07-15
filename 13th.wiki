@@ -1,0 +1,10 @@
+=July 13th=
+
+
+Mon Jul 13 09:20:15 EDT 2020
+1 on 1 with Hardik. 
+
+
+Mon Jul 13 14:00:56 EDT 2020
+* Work on the build and deploy to dev
+ * Deploying to dev created some issues in configuration. I will need to dig into those more.  

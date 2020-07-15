@@ -11,8 +11,11 @@ TODO
 * [ ] Python
 	* [ ] Section 2 of OOP
 	* [ ] Look at Project Euler again.
-* [ ] Design Patterns
-	* [ ] Learn Repository Pattern
-	* [ ] Review Strategy Pattern
+* [o] Design Patterns
+	* [X] Learn Repository Pattern
+		* [ ] Review and Implement Repository for a file in python maybe. 
+	* [X] Review Strategy Pattern
 * [ ] Look into how to paint the door
 * [ ] Consider taking the hacker rank for Ford again?
+* [ ] 10 Minute home cleanup.
+* [X] Followup on Fence Quotes

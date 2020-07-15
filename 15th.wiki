@@ -1,0 +1,2 @@
+At standup I let the team know that I am unable to test the things
+
